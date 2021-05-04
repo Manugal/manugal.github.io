@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "93958R7X89.it.bancafideuram.fideuram.alfapb.ios.beta",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "93958R7X89.it.bancafideuram.fideuram.alfapb.ios",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
