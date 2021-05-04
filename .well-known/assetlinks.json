@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "it.bancafideuram.fideuram.alfapb.beta",
+    "sha256_cert_fingerprints":
+    ["17:12:3C:2B:0E:AE:74:48:0F:62:D4:B4:31:8A:E6:5C:E0:30:BF:C4:A9:9B:31:AC:A6:39:58:53:0D:19:60:58"]
+  }
+}]
